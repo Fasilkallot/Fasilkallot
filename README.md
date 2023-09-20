@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fasilkallot
 - 👀 I’m interested in ...Game Development
-- 🌱 I’m currently learning ...C#
+- 🌱 I’m currently learning ... Unity with C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...fasilkallothofficial@gmail.com
 
